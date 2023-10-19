@@ -83,3 +83,8 @@ input {
   flex-direction: column;
   row-gap: 15px;
 }
+
+.attribution {
+  position: relative;
+  top: 10px;
+}
